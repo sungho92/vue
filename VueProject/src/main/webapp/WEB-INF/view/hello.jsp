@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 
 <script src="/resources/js/vue.js"></script>
+<script src="/resources/js/partial.js"></script>
 
 </head>
 <body>
